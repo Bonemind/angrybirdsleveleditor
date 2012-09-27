@@ -1,0 +1,12 @@
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\bin\x86\Debug\Angry birds level editor.exe
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\bin\x86\Debug\Angry birds level editor.pdb
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\obj\x86\Debug\Angry birds level editor.exe
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\obj\x86\Debug\Angry birds level editor.pdb
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\bin\x86\Debug\FarseerPhysicsXNA.dll
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\bin\x86\Debug\Content\circle.xnb
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\bin\x86\Debug\Content\crate.xnb
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\bin\x86\Debug\Content\plank.xnb
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\bin\x86\Debug\Content\triangle.xnb
+c:\users\bonemind\documents\visual studio 2010\Projects\Angry birds level editor\Angry birds level editor\Angry birds level editor\bin\x86\Debug\Content\Exclude\cursor.xnb
